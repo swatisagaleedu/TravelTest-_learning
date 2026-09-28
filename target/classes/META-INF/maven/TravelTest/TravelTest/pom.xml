@@ -68,7 +68,7 @@
     
     <configuration>
     <suiteXmlFiles>
-     <suiteXmlFile>testng.xml</suiteXmlFile>
+     <suiteXmlFile>loginAndFlight.xml</suiteXmlFile>
     </suiteXmlFiles>
     
     </configuration>
